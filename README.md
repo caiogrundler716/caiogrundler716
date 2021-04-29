@@ -8,7 +8,7 @@
 -   ![smile](https://github.githubassets.com/images/icons/emoji/unicode/1f604.png)  Sempre em busca de aprender novas tecnologias
 - ### Connect with me:
 
--  ![Gmail Badge](https://img.shields.io/badge/-caiob.grundler056@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiob.grundler056@gmail.com)](caiob.grundler056@gmail.com)
+-  ![Gmail Badge](https://img.shields.io/badge/-caiob.grundler056@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiob.grundler056@gmail.com)]
  
 - ou no telefone +55 (12) 98167-6252 (número com whatsapp).
  
