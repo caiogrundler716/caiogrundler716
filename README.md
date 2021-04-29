@@ -8,6 +8,8 @@
 -   ![smile](https://github.githubassets.com/images/icons/emoji/unicode/1f604.png)  Sempre em busca de aprender novas tecnologias
 - ### Connect with me:
 
--   [![Gmail Badge](https://img.shields.io/badge/-caiob.grundler056@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiob.grundler056@gmail.com)](caiob.grundler056@gmail.com)[](mailto:caiogrundler056@gmail.com)**  ou no telefone +55 (12) ) 98167-6252 (número com whatsapp).
+-  ![Gmail Badge](https://img.shields.io/badge/-caiob.grundler056@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiob.grundler056@gmail.com)](caiob.grundler056@gmail.com)
+ 
+- ou no telefone +55 (12) 98167-6252 (número com whatsapp).
  
 [![Linkedin Badge](https://img.shields.io/badge/-Caio%20Grundler-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-grundler-02431b1b8/)](https://www.linkedin.com/in/caio-grundler-02431b1b8/) 
