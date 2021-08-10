@@ -29,7 +29,7 @@
 
 -  ![Gmail Badge](https://img.shields.io/badge/-caiob.grundler056@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiob.grundler056@gmail.com)
  
- https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white https://api.whatsapp.com/send?phone=5512981676252&text=Olá!  Como posso ajudar?
+ 
  
 [![Linkedin Badge](https://img.shields.io/badge/-Caio%20Grundler-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-grundler-02431b1b8/)](https://www.linkedin.com/in/caio-grundler-02431b1b8/) 
    <div>
