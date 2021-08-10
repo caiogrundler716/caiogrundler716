@@ -25,7 +25,7 @@
      <a href="https://www.linkedin.com/in/caio-grundler-02431b1b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      <a href="https://discord.com/channels/@me/844548526918205450" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
-   ![Snake animation](https://github.com/caiogrundler716/caiogrundler716/blob/output/github-contribution-grid-snake.svg)
+   
  </div>
 
 - 💼 Estou procurando pela minha primeira oportunidade como desenvolvedor Front End ou Full Stack.
@@ -37,3 +37,5 @@
 - ou no telefone +55 (12) 98167-6252 (número com whatsapp).
  
 [![Linkedin Badge](https://img.shields.io/badge/-Caio%20Grundler-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-grundler-02431b1b8/)](https://www.linkedin.com/in/caio-grundler-02431b1b8/) 
+  
+![Snake animation](https://github.com/caiogrundler716/caiogrundler716/blob/output/github-contribution-grid-snake.svg)
