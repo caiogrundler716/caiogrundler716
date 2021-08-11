@@ -23,7 +23,7 @@
   
    </div>
 
-- 💼 Estou procurando pela minha primeira oportunidade como desenvolvedor Front End ou Full Stack.
+- 💼 Estou procurando pela minha primeira oportunidade como desenvolvedor Full Stack.
 -   ![smile](https://github.githubassets.com/images/icons/emoji/unicode/1f604.png)  Sempre em busca de aprender novas tecnologias
 - ### Connect with me:
 
